@@ -3,7 +3,7 @@
 <li>Build a classification model to predict churners one month in advance </li>
 <li>Identify key churn drivers</li>
 </ul>
-## Steps
+<b>Steps</b>
 <ol>
 <li> Exploratory data analysis (EDA)</li>
 <li> Feature engineering</li>
