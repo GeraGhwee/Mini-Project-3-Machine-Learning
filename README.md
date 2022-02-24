@@ -1,4 +1,4 @@
-# Mini Project 3: Machine Learning
+# Mini Project 3: Machine Learning (Team Project)
 <ul>
 <li>Build a classification model to predict churners one month in advance </li>
 <li>Identify key churn drivers</li>
